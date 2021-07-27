@@ -2,5 +2,6 @@
 
 공모전 URL : (https://bd.kma.go.kr/contest/main.do)
 
+참여 분야 : 민간협력형
 
-
+주제 
