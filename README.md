@@ -2,9 +2,8 @@
 
 ✔️ '비건웨더', 날씨에 따른 비건 친환경 제품 추천 플랫폼 앱
 
-🔗 공모전 URL : https://bd.kma.go.kr/contest/main.do
-\n
-\n
+🔗 공모전 URL : https://bd.kma.go.kr/contest/main.do \n
+
 **공모 배경**
 
 기후 위기, 미세먼지 등 급변하는 환경 속에서 '윤리적 소비'에 대한 관심이 높아짐에 따라
